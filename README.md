@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/RaunakGN2001/Order-Summary-Component__Frontend-Mentor)
+- Live Site URL: (https://raunakgn2001.github.io/Order-Summary-Component__Frontend-Mentor/)
 
 ## My process
 
